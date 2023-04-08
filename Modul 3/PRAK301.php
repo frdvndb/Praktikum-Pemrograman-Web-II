@@ -47,7 +47,7 @@
         // variabel nilai
         while ($i <= $nilai){
 
-            // Jika nilai habis dibagi 2
+            // Jika nilai tidak habis dibagi 2
             if ($i % 2 != 0){
                 echo "<h2 class=red>Peserta ke-$i</br>";
 
